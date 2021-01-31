@@ -11,7 +11,7 @@ A medida que se hace todo estas etapas se tiene que tener en cuenta la planifica
 
 Estas etapas se van revisando a lo largo de la planificación por lo que suele haber moficaciones durante el desarrollo del proyecto.
 
-Para ve la documentacion ir a [docs]("https://github.com/Tony-L-93/Asistencia-al-Visitante/tree/master/docs")
+Para ve la documentacion ir a [docs](https://github.com/Tony-L-93/Asistencia-al-Visitante/tree/master/docs)
 
 ---
  📢 por [Tony Liendro](https://github.com/Tony-L-93)
