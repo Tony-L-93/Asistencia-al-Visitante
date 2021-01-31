@@ -2,7 +2,8 @@
 
 ### Estructura del proyecto
 
-##Documentación:
+DOCUMENTACION:
+
 Este proyecto se trata de las etapas que se debe pasar hasta llegar al desarrollo de un software. 
 
 Comenzando por la anotación de los requerimientos tanto funcionales como no funcionales para su anilisis. Por otro lado se arma el diagrama de casos de usos y sus detalles que permite vizualizar las acciones del sistema.
@@ -15,6 +16,11 @@ Estas etapas se van revisando a lo largo de la planificación por lo que suele h
 
 Para ve la documentacion ir a [docs](https://github.com/Tony-L-93/Asistencia-al-Visitante/tree/master/docs)
 
-##Desarrollo:
+DESARROLLO:
+Se crea una pagina web donde lo principal es poder entrar al portal del lugar y poder ver el mapa con los autos de asistencia y las alertas del lugar donde los clientes van a ir.
+
+La aplicación está estructurada utilizando el lenguaje `JavaScript`, `CSS` y `Js`.
+
+
 ---
  📢 por [Tony Liendro](https://github.com/Tony-L-93)
