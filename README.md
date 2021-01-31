@@ -17,6 +17,7 @@ Estas etapas se van revisando a lo largo de la planificación por lo que suele h
 Para ve la documentacion ir a [docs](https://github.com/Tony-L-93/Asistencia-al-Visitante/tree/master/docs)
 
 DESARROLLO:
+
 Se crea una pagina web donde lo principal es poder entrar al portal del lugar y poder ver el mapa con los autos de asistencia y las alertas del lugar donde los clientes van a ir.
 
 La aplicación está estructurada utilizando el lenguaje `JavaScript`, `CSS` y `Js`.
