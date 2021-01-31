@@ -1,0 +1,58 @@
+body {
+  background-color: rgba(15, 91, 206, 0.918);
+}
+
+#titulo {
+  font: normal 35px arial,helvetica,sans-serif;
+  text-align: center;
+  color:white;
+  -webkit-text-stroke: 0.5px black;
+}
+
+#mapid {
+  background: #CCC;
+  position: absolute;
+
+  top: 75px;
+  bottom: 0px;
+  left: 0;
+
+  width: 75%;
+}
+
+#right {
+  position: absolute;
+
+  top: 75px;
+  right: 0px;
+  bottom: 0px;
+
+  overflow:auto;
+  width: 25%;
+}
+
+#contenido {
+  font: normal 14px arial,helvetica,sans-serif;
+  text-align: justify;
+  border: solid 3px rgb(110, 238, 98);
+  position:  relative;
+  background-color:rgb(255, 255, 255);
+  overflow: hidden;
+  padding: 0 20px;
+
+  
+  }
+  #contenido2 {
+    font: normal 14px arial,helvetica,sans-serif;
+    text-align: justify;
+    border: solid 3px rgb(110, 238, 98);
+    position:  relative;
+    background-color:rgb(255, 255, 255);
+    overflow: hidden;
+    padding: 0 20px;
+    }
+  
+#states {
+  margin: 7px 15px;
+}
+

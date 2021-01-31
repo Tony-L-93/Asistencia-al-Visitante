@@ -1,0 +1,47 @@
+  body {
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-color: rgba(15, 91, 206, 0.918);
+        background-image: url("../img/malvinas-argentinas.jpg");
+        background-position: center top;
+        background-size: 900px 750px;
+        }
+
+    #titulo {
+    font: normal 40px arial,helvetica,sans-serif;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    -webkit-text-stroke: 1px black;
+}
+
+#headerpadre {
+    position: relative;
+}
+#header {
+margin: auto;
+position: relative;
+width: 750px;
+left: 10%;
+font: normal 14px arial,helvetica,sans-serif;
+
+}
+
+ul, ol {
+list-style:none;
+}
+
+.nav > li {
+float:left;
+}
+
+.nav li a {
+background-color:rgb(110, 238, 98);
+color:#fff;
+text-decoration:none;
+padding:15px 30px;
+display:block;
+}
+
+.nav li a:hover {
+background-color:rgba(15, 91, 206, 0.918);
+}

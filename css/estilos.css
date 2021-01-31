@@ -1,0 +1,27 @@
+header {
+  	background-position:  center center;
+  	background-repeat: no-repeat;
+  	height: 500px;
+}
+
+h1 {
+	font-family: "Lato", sans-serif;
+}
+h2 {
+	font-family: "Lato", sans-serif;
+}
+h3 {
+	font-family: "Lato", sans-serif;
+}
+h4 {
+	font-family: "Lato", sans-serif;
+}
+h5 {
+	font-family: "Lato", sans-serif;
+}
+h6 {
+	font-family: "Lato", sans-serif;
+}
+.w3-bar {
+	font-family: "Montserrat", sans-serif;
+}

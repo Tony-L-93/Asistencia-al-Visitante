@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+
+<head>
+    <title>Alertas</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/estiloalerta.css" />
+    <!-- include jQuery -->
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/cargarAlertas.js"></script>
+
+
+</head>
+
+<body>
+   <h1 id="titulo"> <b>ALERTAS</b></h1>
+   <div  id="contenidopadre" >
+    <div id="header" >
+        <ul class="nav">
+            <li>
+                <a  onclick="loadAlertas()"><b>Alerta actual</b></a>
+            </li>
+            <li>
+                <a onclick="loadAlertas(0)"><b>Dia 1</b></a>
+            </li>
+            <li>
+               <a onclick="loadAlertas(1)"><b>Dia 2</b></a>
+            </li>
+            <li>
+             <a onclick="loadAlertas(2)"><b>Dia 3</b></a>
+            </li>
+            <li>
+                <a  onclick="loadAlertas(3)"><b>Dia 4</b></a>
+            </li>
+            
+            
+            </ul>
+    </div>
+    <div  id="contenido" >
+        <p   id="alertas"   style="color:rgb(0, 0, 0)" ></p>        
+    </div>
+</div>
+
+<script src="../js/config.js"></script>
+ <script src="../js/cargarAlertas.js"></script>
+    
+</body>
+
+</html>

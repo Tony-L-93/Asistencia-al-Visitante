@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+	<title>Mapa</title>
+
+	<script src="../js/jquery.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="../css/leaflet.css">
+    <script src="../js/leaflet.js"></script>
+    
+	<script src="../js/leaflet-src.js"></script>
+
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/estilomapa.css" />
+    </head>
+    <body>
+        <h1 id="titulo"> <b>MOVILES Y CENTROS DE ASISTENCIA</b></h1>
+        <div id="mapid"></div>
+        <div id="right" >
+            <div id="contenido" >
+                <h2> <b>Estados de los Móviles</b></h2>
+                <ul id="states">
+                </ul>
+                <h2><b>Móviles</b></h2>
+                <ul id="moviles">
+                </ul>
+            </div>
+             <div id="contenido2" >
+                <h2><b>Centros</b></h2>
+                <ul id="centros">
+                </ul>
+            </div>
+        </div>
+        
+        <script src="../js/config.js"></script>
+        <script src="../js/constantes.js"></script>
+        <script src="../js/funciones.js"></script>
+        <script src="../js/CargarCentrosdeAsistencia.js"></script>
+        <script src="../js/CargarEstados.js"></script>
+        <script src="../js/CargarPosicionesMoviles.js"></script>
+        <script src="../js/startTransito.js"></script>
+        
+    </body>
+</html>

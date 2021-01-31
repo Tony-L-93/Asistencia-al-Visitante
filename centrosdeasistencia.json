@@ -1,0 +1,52 @@
+{
+  "CentrosdeAsistencia": [
+    {
+      "id_centro": 1,
+      "nombre": "Centro 1",
+      "direccion": "Chile, Piñero, 1515 José C. Paz, Argentina",
+      "telefono": "541145668886",
+      "horario": "Lunes a viernes 10 a 18hs",
+      "email": "centro1@hotmail.com",
+      "coordenada": {
+        "lat": -34.518475,
+        "lon": -58.724269
+      }
+    },
+    {
+      "id_centro": 2,
+      "nombre": "Centro 2",
+      "direccion": "Eva Perón, Partido de Malvinas Argentinas, B1663 Los Polvorines",
+      "telefono": "541149643905",
+      "horario": "Martes a viernes 10 a 18hs",
+      "email": "centro2@hotmail.com",
+      "coordenada": {
+        "lat": -34.52419,
+        "lon": -58.7088
+      }
+    },
+    {
+      "id_centro": 3,
+      "nombre": "Centro 3",
+      "direccion": "Velázquez, Partido de San Miguel, B1663 Los Polvorines, Argentina",
+      "telefono": "541146111919",
+      "horario": "Sabados 10 a 18hs",
+      "email": "centro3@hotmail.com",
+      "coordenada": {
+        "lat": -34.527068,
+        "lon": -58.700376
+      }
+    },
+    {
+      "id_centro": 4,
+      "nombre": "Centro 4",
+      "direccion": "Tubo Center, Félix de Olazábal, Partido de Malvinas Argentinas, 1515 Los Polvorines, Argentina",
+      "telefono": "541146111919",
+      "horario": "Martes y Jueves 10 a 18hs",
+      "email": "centro4@hotmail.com",
+      "coordenada": {
+        "lat": -34.511724 ,
+        "lon": -58.725544
+      }
+    }
+  ]
+}
