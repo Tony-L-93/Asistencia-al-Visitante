@@ -1,6 +1,8 @@
 <h1 align="center"> Asistencia-al-Visitante</h1>
 
 ### Estructura del proyecto
+
+##Documentación:
 Este proyecto se trata de las etapas que se debe pasar hasta llegar al desarrollo de un software. 
 
 Comenzando por la anotación de los requerimientos tanto funcionales como no funcionales para su anilisis. Por otro lado se arma el diagrama de casos de usos y sus detalles que permite vizualizar las acciones del sistema.
@@ -13,5 +15,6 @@ Estas etapas se van revisando a lo largo de la planificación por lo que suele h
 
 Para ve la documentacion ir a [docs](https://github.com/Tony-L-93/Asistencia-al-Visitante/tree/master/docs)
 
+##Desarrollo:
 ---
  📢 por [Tony Liendro](https://github.com/Tony-L-93)
