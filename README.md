@@ -1,4 +1,4 @@
-<h1 align="center"> Asistencia-al-Visitante</h1>
+<h1 align="center"> Asistencia al Visitante</h1>
 
 ### Estructura del proyecto
 
